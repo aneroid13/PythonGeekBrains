@@ -1,4 +1,0 @@
-
-2019-01-12 22:50:03,506 INFO Lesson5_server Client: ('127.0.0.1', 43026); Message:{"action": "presence", "time": 1547308203.505422, "type": "status", "user": {"account_name": "It's ME", "status": "Hello"}}
-2019-01-12 22:50:05,125 INFO Lesson5_server Client: ('127.0.0.1', 43028); Message:{"action": "presence", "time": 1547308205.124033, "type": "status", "user": {"account_name": "It's ME", "status": "Hello"}}
-2019-01-12 22:50:06,732 INFO Lesson5_server Client: ('127.0.0.1', 43030); Message:{"action": "presence", "time": 1547308206.7317953, "type": "status", "user": {"account_name": "It's ME", "status": "Hello"}}
