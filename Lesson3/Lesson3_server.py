@@ -2,8 +2,6 @@ from socket import *
 import json
 import time
 import argparse
-from server_log_config import logger_srv as log
-
 
 class JIMServer:
     def __init__(self, addr="localhost", port=7777):
@@ -33,15 +31,12 @@ class JIMServer:
         s.listen(5)
 
         while True:
-            try:
-                client, addr = s.accept()
-                self.clientIP = addr
-                self.data = client.recv(1000000)
-                status_code = self.check_message()
-                client.send(self.answer(status_code, self.textanswers[status_code]))
-                client.close()
-            except error as ex:
-                log.error("Error %s", ex)
+            client, addr = s.accept()
+            self.clientIP = addr
+            self.data = client.recv(1000000)
+            status_code = self.check_message()
+            client.send(self.answer(status_code, self.textanswers[status_code]))
+            client.close()
 
     def get_time(self):
         return time.time()
@@ -61,12 +56,11 @@ class JIMServer:
 
         JIMMSG = json.dumps(template_server_answer)
         JIMMSG = JIMMSG.encode("utf-8")
-        log.debug("Server answer : %s", JIMMSG)
         return JIMMSG
 
     def check_message(self):
         code = 200
-        log.info(f"Client: {self.clientIP}; Message:{self.data.decode('utf-8')}")
+        print(f"Client: {self.clientIP}; Message:{self.data.decode('utf-8')}")
 
         try:
             JIMREC = json.loads(self.data)
@@ -78,7 +72,6 @@ class JIMServer:
             code = 400
 
         return code
-
 
 def get_args():
     parser = argparse.ArgumentParser(
