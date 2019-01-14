@@ -1,0 +1,82 @@
+2019-01-15 00:21:42,731 INFO Lesson6_server Client: ('127.0.0.1', 41220); Message:{"action": "presence", "time": 1547486502.7311795, "type": "status", "user": {"account_name": "It's ME", "status": "Hello"}}
+2019-01-15 00:22:17,455 INFO Lesson6_server Client: ('127.0.0.1', 41222); Message:{"action": "presence", "time": 1547486537.4552033, "type": "status", "user": {"account_name": "It's ME", "status": "Hello"}}
+2019-01-15 00:23:03,774 INFO Lesson6_server Client: ('127.0.0.1', 41224); Message:{"action": "presence", "time": 1547486583.7735379, "type": "status", "user": {"account_name": "It's ME", "status": "Hello"}}
+2019-01-15 00:23:29,710 INFO Lesson6_server Client: ('127.0.0.1', 41228); Message:{"action": "presence", "time": 1547486609.7100043, "type": "status", "user": {"account_name": "It's ME", "status": "Hello"}}
+2019-01-15 00:23:50,846 INFO Lesson6_server Client: ('127.0.0.1', 41232); Message:{"action": "presence", "time": 1547486630.84608, "type": "status", "user": {"account_name": "It's ME", "status": "Hello"}}
+2019-01-15 00:24:35,113 INFO Lesson6_server Client: ('127.0.0.1', 41234); Message:{"action": "presence", "time": 1547486675.1133838, "type": "status", "user": {"account_name": "It's ME", "status": "Hello"}}
+2019-01-15 00:29:19,088 INFO Lesson6_server Client: ('127.0.0.1', 41244); Message:{"action": "presence", "time": 1547486959.0876315, "type": "status", "user": {"account_name": "It's ME", "status": "Hello"}}
+2019-01-15 00:31:27,395 INFO Lesson6_server Client: ('127.0.0.1', 41250); Message:{"action": "presence", "time": 1547487087.3944697, "type": "status", "user": {"account_name": "It's ME", "status": "Hello"}}
+2019-01-15 00:33:40,939 INFO Lesson6_server Client: ('127.0.0.1', 41256); Message:{"action": "presence", "time": 1547487220.9384966, "type": "status", "user": {"account_name": "It's ME", "status": "Hello"}}
+2019-01-15 00:34:21,886 DEBUG Lesson6_server Function listen started with args = (<__main__.JIMServer object at 0x7f5c4775acc0>,) and kw-args = {}
+2019-01-15 00:34:35,856 DEBUG Lesson6_server Function listen started with args = (<__main__.JIMServer object at 0x7fbab35a2cc0>,) and kw-args = {}
+2019-01-15 00:34:41,491 DEBUG Lesson6_server Function listen started with args = (<__main__.JIMServer object at 0x7fcbf4233e48>,) and kw-args = {}
+2019-01-15 00:34:48,980 DEBUG Lesson6_server Function listen started with args = (<__main__.JIMServer object at 0x7f819d972cc0>,) and kw-args = {}
+2019-01-15 00:34:54,085 DEBUG Lesson6_server Function check_message started with args = (<__main__.JIMServer object at 0x7f819d972cc0>,) and kw-args = {}
+2019-01-15 00:34:54,085 INFO Lesson6_server Client: ('127.0.0.1', 41260); Message:{"action": "presence", "time": 1547487294.0843573, "type": "status", "user": {"account_name": "It's ME", "status": "Hello"}}
+2019-01-15 00:34:54,085 DEBUG Lesson6_server Function result 200
+2019-01-15 00:34:54,085 DEBUG Lesson6_server Function answer started with args = (<__main__.JIMServer object at 0x7f819d972cc0>, 200, 'OK!') and kw-args = {}
+2019-01-15 00:34:54,085 DEBUG Lesson6_server Function get_time started with args = (<__main__.JIMServer object at 0x7f819d972cc0>,) and kw-args = {}
+2019-01-15 00:34:54,085 DEBUG Lesson6_server Function result 1547487294.0857801
+2019-01-15 00:34:54,087 DEBUG Lesson6_server Server answer : b'{"response": "200", "time": 1547487294.0857801, "alert": "OK!"}'
+2019-01-15 00:34:54,087 DEBUG Lesson6_server Function result b'{"response": "200", "time": 1547487294.0857801, "alert": "OK!"}'
+2019-01-15 00:34:56,299 DEBUG Lesson6_server Function check_message started with args = (<__main__.JIMServer object at 0x7f819d972cc0>,) and kw-args = {}
+2019-01-15 00:34:56,299 INFO Lesson6_server Client: ('127.0.0.1', 41262); Message:{"action": "presence", "time": 1547487296.2988603, "type": "status", "user": {"account_name": "It's ME", "status": "Hello"}}
+2019-01-15 00:34:56,299 DEBUG Lesson6_server Function result 200
+2019-01-15 00:34:56,299 DEBUG Lesson6_server Function answer started with args = (<__main__.JIMServer object at 0x7f819d972cc0>, 200, 'OK!') and kw-args = {}
+2019-01-15 00:34:56,300 DEBUG Lesson6_server Function get_time started with args = (<__main__.JIMServer object at 0x7f819d972cc0>,) and kw-args = {}
+2019-01-15 00:34:56,300 DEBUG Lesson6_server Function result 1547487296.300183
+2019-01-15 00:34:56,300 DEBUG Lesson6_server Server answer : b'{"response": "200", "time": 1547487296.300183, "alert": "OK!"}'
+2019-01-15 00:34:56,300 DEBUG Lesson6_server Function result b'{"response": "200", "time": 1547487296.300183, "alert": "OK!"}'
+2019-01-15 00:37:43,610 DEBUG Lesson6_server Function (listen) started with args = (<__main__.JIMServer object at 0x7f78df1dacc0>,) and kw-args = {}
+2019-01-15 00:37:46,955 DEBUG Lesson6_server Function (check_message) started with args = (<__main__.JIMServer object at 0x7f78df1dacc0>,) and kw-args = {}
+2019-01-15 00:37:46,955 INFO Lesson6_server Client: ('127.0.0.1', 41268); Message:{"action": "presence", "time": 1547487466.9545438, "type": "status", "user": {"account_name": "It's ME", "status": "Hello"}}
+2019-01-15 00:37:46,955 DEBUG Lesson6_server Function ({func.__name__}) result = 200
+2019-01-15 00:37:46,955 DEBUG Lesson6_server Function (answer) started with args = (<__main__.JIMServer object at 0x7f78df1dacc0>, 200, 'OK!') and kw-args = {}
+2019-01-15 00:37:46,955 DEBUG Lesson6_server Function (get_time) started with args = (<__main__.JIMServer object at 0x7f78df1dacc0>,) and kw-args = {}
+2019-01-15 00:37:46,955 DEBUG Lesson6_server Function ({func.__name__}) result = 1547487466.9559157
+2019-01-15 00:37:46,957 DEBUG Lesson6_server Server answer : b'{"response": "200", "time": 1547487466.9559157, "alert": "OK!"}'
+2019-01-15 00:37:46,957 DEBUG Lesson6_server Function ({func.__name__}) result = b'{"response": "200", "time": 1547487466.9559157, "alert": "OK!"}'
+2019-01-15 00:37:49,127 DEBUG Lesson6_server Function (check_message) started with args = (<__main__.JIMServer object at 0x7f78df1dacc0>,) and kw-args = {}
+2019-01-15 00:37:49,128 INFO Lesson6_server Client: ('127.0.0.1', 41270); Message:{"action": "presence", "time": 1547487469.12709, "type": "status", "user": {"account_name": "It's ME", "status": "Hello"}}
+2019-01-15 00:37:49,128 DEBUG Lesson6_server Function ({func.__name__}) result = 200
+2019-01-15 00:37:49,128 DEBUG Lesson6_server Function (answer) started with args = (<__main__.JIMServer object at 0x7f78df1dacc0>, 200, 'OK!') and kw-args = {}
+2019-01-15 00:37:49,128 DEBUG Lesson6_server Function (get_time) started with args = (<__main__.JIMServer object at 0x7f78df1dacc0>,) and kw-args = {}
+2019-01-15 00:37:49,128 DEBUG Lesson6_server Function ({func.__name__}) result = 1547487469.1284347
+2019-01-15 00:37:49,128 DEBUG Lesson6_server Server answer : b'{"response": "200", "time": 1547487469.1284347, "alert": "OK!"}'
+2019-01-15 00:37:49,128 DEBUG Lesson6_server Function ({func.__name__}) result = b'{"response": "200", "time": 1547487469.1284347, "alert": "OK!"}'
+2019-01-15 00:38:47,571 DEBUG Lesson6_server Function (check_message) started with args = (<__main__.JIMServer object at 0x7f78df1dacc0>,) and kw-args = {}
+2019-01-15 00:38:47,571 INFO Lesson6_server Client: ('127.0.0.1', 41274); Message:{"action": "presence", "time": 1547487527.5708976, "type": "status", "user": {"account_name": "It's ME", "status": "Hello"}}
+2019-01-15 00:38:47,571 DEBUG Lesson6_server Function ({func.__name__}) result = 200
+2019-01-15 00:38:47,572 DEBUG Lesson6_server Function (answer) started with args = (<__main__.JIMServer object at 0x7f78df1dacc0>, 200, 'OK!') and kw-args = {}
+2019-01-15 00:38:47,572 DEBUG Lesson6_server Function (get_time) started with args = (<__main__.JIMServer object at 0x7f78df1dacc0>,) and kw-args = {}
+2019-01-15 00:38:47,572 DEBUG Lesson6_server Function ({func.__name__}) result = 1547487527.57226
+2019-01-15 00:38:47,572 DEBUG Lesson6_server Server answer : b'{"response": "200", "time": 1547487527.57226, "alert": "OK!"}'
+2019-01-15 00:38:47,572 DEBUG Lesson6_server Function ({func.__name__}) result = b'{"response": "200", "time": 1547487527.57226, "alert": "OK!"}'
+2019-01-15 00:39:18,018 DEBUG Lesson6_server Function (check_message) started with args = (<__main__.JIMServer object at 0x7f78df1dacc0>,) and kw-args = {}
+2019-01-15 00:39:18,018 INFO Lesson6_server Client: ('127.0.0.1', 41276); Message:{"action": "presence", "time": 1547487558.0179312, "type": "status", "user": {"account_name": "It's ME", "status": "Hello"}}
+2019-01-15 00:39:18,018 DEBUG Lesson6_server Function ({func.__name__}) result = 200
+2019-01-15 00:39:18,018 DEBUG Lesson6_server Function (answer) started with args = (<__main__.JIMServer object at 0x7f78df1dacc0>, 200, 'OK!') and kw-args = {}
+2019-01-15 00:39:18,018 DEBUG Lesson6_server Function (get_time) started with args = (<__main__.JIMServer object at 0x7f78df1dacc0>,) and kw-args = {}
+2019-01-15 00:39:18,019 DEBUG Lesson6_server Function ({func.__name__}) result = 1547487558.0190098
+2019-01-15 00:39:18,019 DEBUG Lesson6_server Server answer : b'{"response": "200", "time": 1547487558.0190098, "alert": "OK!"}'
+2019-01-15 00:39:18,019 DEBUG Lesson6_server Function ({func.__name__}) result = b'{"response": "200", "time": 1547487558.0190098, "alert": "OK!"}'
+2019-01-15 00:39:55,317 DEBUG Lesson6_server Function (check_message) started with args = (<__main__.JIMServer object at 0x7f78df1dacc0>,) and kw-args = {}
+2019-01-15 00:39:55,317 INFO Lesson6_server Client: ('127.0.0.1', 41278); Message:{"action": "presence", "time": 1547487595.3164656, "type": "status", "user": {"account_name": "It's ME", "status": "Hello"}}
+2019-01-15 00:39:55,317 DEBUG Lesson6_server Function ({func.__name__}) result = 200
+2019-01-15 00:39:55,317 DEBUG Lesson6_server Function (answer) started with args = (<__main__.JIMServer object at 0x7f78df1dacc0>, 200, 'OK!') and kw-args = {}
+2019-01-15 00:39:55,317 DEBUG Lesson6_server Function (get_time) started with args = (<__main__.JIMServer object at 0x7f78df1dacc0>,) and kw-args = {}
+2019-01-15 00:39:55,317 DEBUG Lesson6_server Function ({func.__name__}) result = 1547487595.3176143
+2019-01-15 00:39:55,317 DEBUG Lesson6_server Server answer : b'{"response": "200", "time": 1547487595.3176143, "alert": "OK!"}'
+2019-01-15 00:39:55,317 DEBUG Lesson6_server Function ({func.__name__}) result = b'{"response": "200", "time": 1547487595.3176143, "alert": "OK!"}'
+2019-01-15 00:40:36,494 DEBUG Lesson6_server Function *listen* started with args = (<__main__.JIMServer object at 0x7f41ad66bdd8>,) and kw-args = {}
+2019-01-15 00:40:42,917 DEBUG Lesson6_server Function *listen* started with args = (<__main__.JIMServer object at 0x7f4fa6babdd8>,) and kw-args = {}
+2019-01-15 00:40:53,201 DEBUG Lesson6_server Function *listen* started with args = (<__main__.JIMServer object at 0x7f5f47453dd8>,) and kw-args = {}
+2019-01-15 00:41:45,261 DEBUG Lesson6_server Function *listen* started with args = (<__main__.JIMServer object at 0x7f069abe2cc0>,) and kw-args = {}
+2019-01-15 00:41:51,505 DEBUG Lesson6_server Function *check_message* started with args = (<__main__.JIMServer object at 0x7f069abe2cc0>,) and kw-args = {}
+2019-01-15 00:41:51,505 INFO Lesson6_server Client: ('127.0.0.1', 41284); Message:{"action": "presence", "time": 1547487711.5046895, "type": "status", "user": {"account_name": "It's ME", "status": "Hello"}}
+2019-01-15 00:41:51,505 DEBUG Lesson6_server Function *check_message* result = 200
+2019-01-15 00:41:51,505 DEBUG Lesson6_server Function *answer* started with args = (<__main__.JIMServer object at 0x7f069abe2cc0>, 200, 'OK!') and kw-args = {}
+2019-01-15 00:41:51,506 DEBUG Lesson6_server Function *get_time* started with args = (<__main__.JIMServer object at 0x7f069abe2cc0>,) and kw-args = {}
+2019-01-15 00:41:51,506 DEBUG Lesson6_server Function *get_time* result = 1547487711.506109
+2019-01-15 00:41:51,510 DEBUG Lesson6_server Server answer : b'{"response": "200", "time": 1547487711.506109, "alert": "OK!"}'
+2019-01-15 00:41:51,510 DEBUG Lesson6_server Function *answer* result = b'{"response": "200", "time": 1547487711.506109, "alert": "OK!"}'
