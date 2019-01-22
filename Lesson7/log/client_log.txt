@@ -1,0 +1,10 @@
+2019-01-22 23:08:46,387 INFO Lesson7_client User connect : OK!
+2019-01-22 23:08:48,464 INFO Lesson7_client User connect : OK!
+2019-01-22 23:08:51,906 INFO Lesson7_client User connect : OK!
+2019-01-22 23:08:53,959 WARNING Lesson7_client Incorrect server answer: {"response": "100", "time": 1548173333.9189513, "alert": "|#mainroom| Donald_271: Hello everybody, I am Donald_271 !"}{"response": "100", "time": 1548173333.9235396, "alert": "|#mainroom| Mike_337: Hello everybody, I am Mike_337 !"}
+2019-01-22 23:12:06,874 INFO Lesson7_client User connect : OK!
+2019-01-22 23:12:10,881 INFO Lesson7_client User connect : OK!
+2019-01-22 23:12:12,887 INFO Lesson7_client User connect : OK!
+2019-01-22 23:12:14,933 WARNING Lesson7_client Incorrect server answer: {"response": "100", "time": 1548173534.8915908, "alert": "|#mainroom| Tomas_820: Hello everybody, I am Tomas_820 !"}{"response": "100", "time": 1548173534.892106, "alert": "|#mainroom| Mike_060: Hello everybody, I am Mike_060 !"}
+2019-01-22 23:12:15,895 INFO Lesson7_client User connect : OK!
+2019-01-22 23:12:18,943 WARNING Lesson7_client Incorrect server answer: {"response": "100", "time": 1548173538.900078, "alert": "|#mainroom| Tomas_820: Hello everybody, I am Tomas_820 !"}{"response": "100", "time": 1548173538.9015481, "alert": "|#mainroom| Mike_060: Hello everybody, I am Mike_060 !"}{"response": "100", "time": 1548173538.9030595, "alert": "|#mainroom| Mike_920: Hello everybody, I am Mike_920 !"}
