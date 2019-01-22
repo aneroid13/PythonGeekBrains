@@ -73,6 +73,7 @@ class JIMServer:
 
         return code
 
+
 def get_args():
     parser = argparse.ArgumentParser(
         description='JIM Server can be started on custom address and port'

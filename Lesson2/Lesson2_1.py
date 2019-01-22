@@ -1,7 +1,7 @@
 import re
 import csv
 
-
+# @dikkini
 def get_data():
     file_list = ["info_1.txt", "info_2.txt", "info_3.txt"]
     main_data = [["Изготовитель системы", "Название ОС", "Код продукта", "Тип системы"]]
