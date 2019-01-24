@@ -1,0 +1,357 @@
+2019-01-24 03:29:39,471 INFO Lesson8_server User: Jeremy_917, Message:{"action": "presence", "time": 1548275377.8896122, "type": "status", "user": {"account_name": "Jeremy_917", "status": "I am using JIM Messenger !"}}
+2019-01-24 03:29:39,474 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_917; Message:b'{"response": "200", "time": 1548275379.4746706, "alert": "OK!"}'
+2019-01-24 03:34:58,788 INFO Lesson8_server User: Mike_780, Message:{"action": "presence", "time": 1548275697.4679236, "type": "status", "user": {"account_name": "Mike_780", "status": "I am using JIM Messenger !"}}
+2019-01-24 03:34:58,790 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_780; Message:b'{"response": "200", "time": 1548275698.7899258, "alert": "OK!"}'
+2019-01-24 03:35:08,451 INFO Lesson8_server User: Mike_780, Message:{"action": "msg", "time": 1548275708.4515038, "to": "#mainroom", "from": "Mike_780", "message": ""}
+2019-01-24 03:35:08,452 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_780; Message:b'{"response": "200", "time": 1548275708.4522147, "alert": "OK!"}'
+2019-01-24 03:35:09,251 INFO Lesson8_server User: Mike_780, Message:{"action": "msg", "time": 1548275709.2509694, "to": "#mainroom", "from": "Mike_780", "message": "afasd"}
+2019-01-24 03:35:09,251 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_780; Message:b'{"response": "200", "time": 1548275709.2516239, "alert": "OK!"}'
+2019-01-24 03:35:10,294 INFO Lesson8_server User: Mike_780, Message:{"action": "msg", "time": 1548275710.293786, "to": "#mainroom", "from": "Mike_780", "message": "zvxcv"}
+2019-01-24 03:35:10,294 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_780; Message:b'{"response": "200", "time": 1548275710.294578, "alert": "OK!"}'
+2019-01-24 03:35:10,889 INFO Lesson8_server User: Mike_780, Message:{"action": "msg", "time": 1548275710.8887827, "to": "#mainroom", "from": "Mike_780", "message": "adfs"}
+2019-01-24 03:35:10,889 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_780; Message:b'{"response": "200", "time": 1548275710.8895822, "alert": "OK!"}'
+2019-01-24 03:35:11,441 INFO Lesson8_server User: Mike_780, Message:{"action": "msg", "time": 1548275711.4411056, "to": "#mainroom", "from": "Mike_780", "message": "asfd"}
+2019-01-24 03:35:11,442 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_780; Message:b'{"response": "200", "time": 1548275711.441948, "alert": "OK!"}'
+2019-01-24 03:35:11,823 INFO Lesson8_server User: Mike_780, Message:{"action": "msg", "time": 1548275711.823107, "to": "#mainroom", "from": "Mike_780", "message": "sdfa"}
+2019-01-24 03:35:11,824 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_780; Message:b'{"response": "200", "time": 1548275711.8239233, "alert": "OK!"}'
+2019-01-24 03:35:13,423 INFO Lesson8_server User: Mike_780, Message:{"action": "msg", "time": 1548275713.4233932, "to": "#mainroom", "from": "Mike_780", "message": "qwefwaef"}
+2019-01-24 03:35:13,424 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_780; Message:b'{"response": "200", "time": 1548275713.424087, "alert": "OK!"}'
+2019-01-24 03:35:15,021 INFO Lesson8_server User: Mike_780, Message:{"action": "msg", "time": 1548275715.0206418, "to": "#mainroom", "from": "Mike_780", "message": "kjhasdjf"}
+2019-01-24 03:35:15,021 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_780; Message:b'{"response": "200", "time": 1548275715.0214474, "alert": "OK!"}'
+2019-01-24 03:35:15,848 INFO Lesson8_server User: Mike_780, Message:{"action": "msg", "time": 1548275715.8484848, "to": "#mainroom", "from": "Mike_780", "message": ""}
+2019-01-24 03:35:15,849 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_780; Message:b'{"response": "200", "time": 1548275715.8493056, "alert": "OK!"}'
+2019-01-24 03:35:16,059 INFO Lesson8_server User: Mike_780, Message:{"action": "msg", "time": 1548275716.0594876, "to": "#mainroom", "from": "Mike_780", "message": ""}
+2019-01-24 03:35:16,060 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_780; Message:b'{"response": "200", "time": 1548275716.0601735, "alert": "OK!"}'
+2019-01-24 03:35:17,339 INFO Lesson8_server User: Mike_780, Message:{"action": "msg", "time": 1548275717.3388667, "to": "#mainroom", "from": "Mike_780", "message": "asdfsdf"}
+2019-01-24 03:35:17,339 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_780; Message:b'{"response": "200", "time": 1548275717.3396287, "alert": "OK!"}'
+2019-01-24 03:35:29,491 INFO Lesson8_server User: Mike_780, Message:{"action": "msg", "time": 1548275729.4913447, "to": "#mainroom", "from": "Mike_780", "message": ""}
+2019-01-24 03:35:29,492 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_780; Message:b'{"response": "200", "time": 1548275729.4921181, "alert": "OK!"}'
+2019-01-24 03:35:29,492 INFO Lesson8_server User: Mike_780, Message:{"action": "msg", "time": 1548275729.4915674, "to": "#mainroom", "from": "Mike_780", "message": ""}
+2019-01-24 03:35:29,492 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_780; Message:b'{"response": "200", "time": 1548275729.49278, "alert": "OK!"}'
+2019-01-24 03:35:31,188 INFO Lesson8_server User: Mike_780, Message:{"action": "msg", "time": 1548275731.188235, "to": "#mainroom", "from": "Mike_780", "message": "fyty"}
+2019-01-24 03:35:31,189 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_780; Message:b'{"response": "200", "time": 1548275731.1890929, "alert": "OK!"}'
+2019-01-24 03:35:49,248 INFO Lesson8_server User: None, Message:
+2019-01-24 03:35:49,248 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_780; Message:b'{"response": "400", "time": 1548275749.2485762, "error": "Wrong request or JSON"}'
+2019-01-24 03:35:49,249 INFO Lesson8_server User: None, Message:
+2019-01-24 03:35:49,249 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_780; Message:b'{"response": "400", "time": 1548275749.2492273, "error": "Wrong request or JSON"}'
+2019-01-24 03:35:49,249 ERROR Lesson8_server Error: [Errno 32] Broken pipe
+2019-01-24 03:59:55,042 INFO Lesson8_server User: Donald_036, Message:{"action": "presence", "time": 1548277193.369178, "type": "status", "user": {"account_name": "Donald_036", "status": "I am using JIM Messenger !"}}
+2019-01-24 03:59:55,043 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_036; Message:b'{"response": "200", "time": 1548277195.042945, "alert": "OK!"}'
+2019-01-24 03:59:56,009 INFO Lesson8_server User: Donald_036, Message:{"action": "msg", "time": 1548277196.0086358, "to": "#mainroom", "from": "Donald_036", "message": "sgd"}
+2019-01-24 03:59:56,009 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_036; Message:b'{"response": "200", "time": 1548277196.0094416, "alert": "OK!"}'
+2019-01-24 03:59:58,549 INFO Lesson8_server User: Donald_036, Message:{"action": "msg", "time": 1548277198.5490975, "to": "#mainroom", "from": "Donald_036", "message": "dgfhdfg"}
+2019-01-24 03:59:58,550 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_036; Message:b'{"response": "200", "time": 1548277198.550018, "alert": "OK!"}'
+2019-01-24 04:00:00,800 INFO Lesson8_server User: Donald_036, Message:{"action": "msg", "time": 1548277200.799934, "to": "#mainroom", "from": "Donald_036", "message": "fsdgf"}
+2019-01-24 04:00:00,800 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_036; Message:b'{"response": "200", "time": 1548277200.800798, "alert": "OK!"}'
+2019-01-24 04:00:02,803 INFO Lesson8_server User: Donald_036, Message:{"action": "msg", "time": 1548277202.234145, "to": "#mainroom", "from": "Donald_036", "message": "werg"}
+2019-01-24 04:00:02,803 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_036; Message:b'{"response": "200", "time": 1548277202.8037028, "alert": "OK!"}'
+2019-01-24 04:00:09,811 INFO Lesson8_server User: None, Message:{"action": "presence", "time": 1548277206.9168448, "type": "status", "user": {"account_name": "Jeremy_157", "status": "I am using JIM Messenger !"}}{"action": "msg", "time": 1548277208.5554347, "to": "#mainroom", "from": "Jeremy_157", "message": "sdfgsdfg"}{"action": "msg", "time": 1548277209.5022395, "to": "#mainroom", "from": "Jeremy_157", "message": "sdfg"}
+2019-01-24 04:00:15,827 INFO Lesson8_server User: None, Message:{"action": "msg", "time": 1548277215.827377, "to": "#mainroom", "from": "Donald_036", "message": ""}{"action": "msg", "time": 1548277215.8275042, "to": "#mainroom", "from": "Donald_036", "message": "fdsggsf"}
+2019-01-24 04:00:15,828 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_036; Message:b'{"response": "400", "time": 1548277215.828137, "error": "Wrong request or JSON"}'
+2019-01-24 04:00:19,875 INFO Lesson8_server User: Jeremy_492, Message:{"action": "presence", "time": 1548277218.873933, "type": "status", "user": {"account_name": "Jeremy_492", "status": "I am using JIM Messenger !"}}
+2019-01-24 04:00:19,876 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_492; Message:b'{"response": "200", "time": 1548277219.8759263, "alert": "OK!"}'
+2019-01-24 04:00:20,957 INFO Lesson8_server User: Jeremy_492, Message:{"action": "msg", "time": 1548277220.957259, "to": "#mainroom", "from": "Jeremy_492", "message": "fdh"}
+2019-01-24 04:00:20,958 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_492; Message:b'{"response": "200", "time": 1548277220.9580348, "alert": "OK!"}'
+2019-01-24 04:00:23,962 INFO Lesson8_server User: None, Message:{"action": "msg", "time": 1548277222.0105445, "to": "#mainroom", "from": "Jeremy_492", "message": "bvcn"}{"action": "msg", "time": 1548277223.4890082, "to": "#mainroom", "from": "Jeremy_492", "message": "rhtreh"}
+2019-01-24 04:00:23,962 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_492; Message:b'{"response": "400", "time": 1548277223.9623194, "error": "Wrong request or JSON"}'
+2019-01-24 04:00:26,966 INFO Lesson8_server User: Jeremy_492, Message:{"action": "msg", "time": 1548277224.7845652, "to": "#mainroom", "from": "Jeremy_492", "message": "dhgd"}
+2019-01-24 04:00:26,966 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_492; Message:b'{"response": "200", "time": 1548277226.9665294, "alert": "OK!"}'
+2019-01-24 04:00:29,970 INFO Lesson8_server User: Jeremy_492, Message:{"action": "msg", "time": 1548277227.3029082, "to": "#mainroom", "from": "Jeremy_492", "message": ""}
+2019-01-24 04:00:29,971 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_492; Message:b'{"response": "200", "time": 1548277229.9709032, "alert": "OK!"}'
+2019-01-24 04:00:57,663 INFO Lesson8_server User: Jeremy_492, Message:{"action": "msg", "time": 1548277257.6634793, "to": "#mainroom", "from": "Jeremy_492", "message": "thgfs"}
+2019-01-24 04:00:57,664 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_492; Message:b'{"response": "200", "time": 1548277257.6642547, "alert": "OK!"}'
+2019-01-24 04:01:00,667 INFO Lesson8_server User: None, Message:{"action": "msg", "time": 1548277257.8286417, "to": "#mainroom", "from": "Jeremy_492", "message": ""}{"action": "msg", "time": 1548277258.0573997, "to": "#mainroom", "from": "Jeremy_492", "message": "f"}{"action": "msg", "time": 1548277258.2821906, "to": "#mainroom", "from": "Jeremy_492", "message": "sdz"}{"action": "msg", "time": 1548277258.6811626, "to": "#mainroom", "from": "Jeremy_492", "message": "adfs"}{"action": "msg", "time": 1548277258.8444827, "to": "#mainroom", "from": "Jeremy_492", "message": "afds"}{"action": "msg", "time": 1548277259.0128975, "to": "#mainroom", "from": "Jeremy_492", "message": ""}{"action": "msg", "time": 1548277259.8720028, "to": "#mainroom", "from": "Jeremy_492", "message": "cxzvz"}
+2019-01-24 04:01:00,668 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_492; Message:b'{"response": "400", "time": 1548277260.6682613, "error": "Wrong request or JSON"}'
+2019-01-24 04:02:29,192 INFO Lesson8_server User: Mike_367, Message:{"action": "presence", "time": 1548277348.1878083, "type": "status", "user": {"account_name": "Mike_367", "status": "I am using JIM Messenger !"}}
+2019-01-24 04:02:29,194 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_367; Message:b'{"response": "200", "time": 1548277349.1933403, "alert": "OK!"}'
+2019-01-24 04:02:31,973 INFO Lesson8_server User: Donald_432, Message:{"action": "presence", "time": 1548277350.9715786, "type": "status", "user": {"account_name": "Donald_432", "status": "I am using JIM Messenger !"}}
+2019-01-24 04:02:31,974 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_432; Message:b'{"response": "200", "time": 1548277351.974167, "alert": "OK!"}'
+2019-01-24 04:02:36,980 INFO Lesson8_server User: None, Message:{"action": "msg", "time": 1548277355.7789214, "to": "#mainroom", "from": "Donald_432", "message": ""}{"action": "msg", "time": 1548277355.7791522, "to": "#mainroom", "from": "Donald_432", "message": "cxzv"}
+2019-01-24 04:02:36,980 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_432; Message:b'{"response": "400", "time": 1548277356.9808116, "error": "Wrong request or JSON"}'
+2019-01-24 04:02:39,985 INFO Lesson8_server User: Donald_432, Message:{"action": "msg", "time": 1548277357.2067683, "to": "#mainroom", "from": "Donald_432", "message": ""}
+2019-01-24 04:02:39,986 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_432; Message:b'{"response": "200", "time": 1548277359.9859672, "alert": "OK!"}'
+2019-01-24 04:05:21,016 INFO Lesson8_server User: None, Message:{"action": "msg", "time": 1548277520.2494814, "to": "#mainroom", "from": "Mike_367", "message": ""}{"action": "msg", "time": 1548277520.2496746, "to": "#mainroom", "from": "Mike_367", "message": "asdfsdf"}
+2019-01-24 04:05:21,017 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_367; Message:b'{"response": "400", "time": 1548277521.0173056, "error": "Wrong request or JSON"}'
+2019-01-24 04:05:24,021 INFO Lesson8_server User: Mike_367, Message:{"action": "msg", "time": 1548277521.202006, "to": "#mainroom", "from": "Mike_367", "message": ""}
+2019-01-24 04:05:24,022 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_367; Message:b'{"response": "200", "time": 1548277524.022079, "alert": "OK!"}'
+2019-01-24 10:41:12,221 INFO Lesson8_server User: Jeremy_726, Message:{"action": "presence", "time": 1548301271.220413, "type": "status", "user": {"account_name": "Jeremy_726", "status": "I am using JIM Messenger !"}}
+2019-01-24 10:41:12,222 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_726; Message:b'{"response": "200", "time": 1548301272.222237, "alert": "OK!"}'
+2019-01-24 10:41:17,226 INFO Lesson8_server User: Tomas_229, Message:{"action": "presence", "time": 1548301274.5155754, "type": "status", "user": {"account_name": "Tomas_229", "status": "I am using JIM Messenger !"}}
+2019-01-24 10:41:17,227 INFO Lesson8_server Server send to: 127.0.0.1; User: Tomas_229; Message:b'{"response": "200", "time": 1548301277.226919, "alert": "OK!"}'
+2019-01-24 10:41:21,231 INFO Lesson8_server User: None, Message:{"action": "msg", "time": 1548301278.3505278, "to": "#mainroom", "from": "Jeremy_726", "message": "hai"}{"action": "msg", "time": 1548301280.6649845, "to": "#mainroom", "from": "Jeremy_726", "message": "dasfdsf"}
+2019-01-24 10:41:21,232 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_726; Message:b'{"response": "400", "time": 1548301281.231998, "error": "Wrong request or JSON"}'
+2019-01-24 10:41:25,237 INFO Lesson8_server User: None, Message:{"action": "msg", "time": 1548301283.6324809, "to": "#mainroom", "from": "Tomas_229", "message": ""}{"action": "msg", "time": 1548301284.4414172, "to": "#mainroom", "from": "Tomas_229", "message": "sdafsadf"}
+2019-01-24 10:41:25,237 INFO Lesson8_server Server send to: 127.0.0.1; User: Tomas_229; Message:b'{"response": "400", "time": 1548301285.23741, "error": "Wrong request or JSON"}'
+2019-01-24 10:41:28,241 INFO Lesson8_server User: Tomas_229, Message:{"action": "msg", "time": 1548301285.4511523, "to": "#mainroom", "from": "Tomas_229", "message": "af"}
+2019-01-24 10:41:28,241 INFO Lesson8_server Server send to: 127.0.0.1; User: Tomas_229; Message:b'{"response": "200", "time": 1548301288.241829, "alert": "OK!"}'
+2019-01-24 10:45:19,184 INFO Lesson8_server User: Jeremy_490, Message:{"action": "presence", "time": 1548301517.46762, "type": "status", "user": {"account_name": "Jeremy_490", "status": "I am using JIM Messenger !"}}
+2019-01-24 10:45:19,185 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_490; Message:b'{"response": "200", "time": 1548301519.1849232, "alert": "OK!"}'
+2019-01-24 10:45:48,214 INFO Lesson8_server User: Mike_371, Message:{"action": "presence", "time": 1548301545.6388097, "type": "status", "user": {"account_name": "Mike_371", "status": "I am using JIM Messenger !"}}
+2019-01-24 10:45:48,215 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_371; Message:b'{"response": "200", "time": 1548301548.2150645, "alert": "OK!"}'
+2019-01-24 10:45:52,220 INFO Lesson8_server User: None, Message:{"action": "msg", "time": 1548301550.5927112, "to": "#mainroom", "from": "Jeremy_490", "message": ""}{"action": "msg", "time": 1548301550.5929446, "to": "#mainroom", "from": "Jeremy_490", "message": "ghgh"}
+2019-01-24 10:45:52,220 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_490; Message:b'{"response": "400", "time": 1548301552.2206883, "error": "Wrong request or JSON"}'
+2019-01-24 10:45:55,224 INFO Lesson8_server User: Jeremy_490, Message:{"action": "msg", "time": 1548301552.9491324, "to": "#mainroom", "from": "Jeremy_490", "message": "h"}
+2019-01-24 10:45:55,224 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_490; Message:b'{"response": "200", "time": 1548301555.224692, "alert": "OK!"}'
+2019-01-24 10:45:59,229 INFO Lesson8_server User: None, Message:{"action": "msg", "time": 1548301558.2754943, "to": "#mainroom", "from": "Mike_371", "message": ""}{"action": "msg", "time": 1548301558.2756648, "to": "#mainroom", "from": "Mike_371", "message": "h"}{"action": "msg", "time": 1548301558.4637632, "to": "#mainroom", "from": "Mike_371", "message": "h"}{"action": "msg", "time": 1548301558.6268451, "to": "#mainroom", "from": "Mike_371", "message": "h"}{"action": "msg", "time": 1548301558.793248, "to": "#mainroom", "from": "Mike_371", "message": "h"}{"action": "msg", "time": 1548301558.947785, "to": "#mainroom", "from": "Mike_371", "message": "h"}
+2019-01-24 10:45:59,230 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_371; Message:b'{"response": "400", "time": 1548301559.2301743, "error": "Wrong request or JSON"}'
+2019-01-24 10:46:03,210 INFO Lesson8_server User: Mike_371, Message:{"action": "msg", "time": 1548301563.209699, "to": "#mainroom", "from": "Mike_371", "message": "hdhgdhf"}
+2019-01-24 10:46:03,210 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_371; Message:b'{"response": "200", "time": 1548301563.210607, "alert": "OK!"}'
+2019-01-24 10:46:09,301 INFO Lesson8_server User: Jeremy_490, Message:{"action": "msg", "time": 1548301569.3008487, "to": "#mainroom", "from": "Jeremy_490", "message": ""}
+2019-01-24 10:46:09,301 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_490; Message:b'{"response": "200", "time": 1548301569.3015387, "alert": "OK!"}'
+2019-01-24 10:46:12,305 INFO Lesson8_server User: Jeremy_490, Message:{"action": "msg", "time": 1548301569.3010826, "to": "#mainroom", "from": "Jeremy_490", "message": "hfhdhfg"}
+2019-01-24 10:46:12,305 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_490; Message:b'{"response": "200", "time": 1548301572.3056245, "alert": "OK!"}'
+2019-01-24 10:46:47,340 INFO Lesson8_server User: None, Message:{"action": "msg", "time": 1548301604.9016576, "to": "#mainroom", "from": "Jeremy_490", "message": ""}{"action": "msg", "time": 1548301604.9018767, "to": "#mainroom", "from": "Jeremy_490", "message": ""}{"action": "msg", "time": 1548301606.291743, "to": "#mainroom", "from": "Jeremy_490", "message": "fgfh"}
+2019-01-24 10:46:47,340 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_490; Message:b'{"response": "400", "time": 1548301607.340448, "error": "Wrong request or JSON"}'
+2019-01-24 10:46:54,348 INFO Lesson8_server User: None, Message:
+2019-01-24 10:46:54,349 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_490; Message:b'{"response": "400", "time": 1548301614.3490546, "error": "Wrong request or JSON"}'
+2019-01-24 10:46:57,351 INFO Lesson8_server User: None, Message:
+2019-01-24 10:46:57,351 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_490; Message:b'{"response": "400", "time": 1548301617.3515189, "error": "Wrong request or JSON"}'
+2019-01-24 10:46:57,351 ERROR Lesson8_server Error: [Errno 32] Broken pipe
+2019-01-24 10:46:57,351 INFO Lesson8_server User: None, Message:
+2019-01-24 10:46:57,351 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_371; Message:b'{"response": "400", "time": 1548301617.3519452, "error": "Wrong request or JSON"}'
+2019-01-24 10:47:01,355 INFO Lesson8_server User: None, Message:
+2019-01-24 10:47:01,356 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_371; Message:b'{"response": "400", "time": 1548301621.3561335, "error": "Wrong request or JSON"}'
+2019-01-24 10:47:01,356 ERROR Lesson8_server Error: [Errno 32] Broken pipe
+2019-01-24 10:47:50,959 INFO Lesson8_server User: Donald_291, Message:{"action": "presence", "time": 1548301669.3552988, "type": "status", "user": {"account_name": "Donald_291", "status": "I am using JIM Messenger !"}}
+2019-01-24 10:47:50,959 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_291; Message:b'{"response": "200", "time": 1548301670.9595394, "alert": "OK!"}'
+2019-01-24 10:47:53,399 INFO Lesson8_server User: Jeremy_273, Message:{"action": "presence", "time": 1548301672.3988688, "type": "status", "user": {"account_name": "Jeremy_273", "status": "I am using JIM Messenger !"}}
+2019-01-24 10:47:53,400 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_273; Message:b'{"response": "200", "time": 1548301673.4001257, "alert": "OK!"}'
+2019-01-24 10:47:58,312 INFO Lesson8_server User: None, Message:{"action": "msg", "time": 1548301678.3118665, "to": "#mainroom", "from": "Donald_291", "message": ""}{"action": "msg", "time": 1548301678.312022, "to": "#mainroom", "from": "Donald_291", "message": "fhghfgfhg"}
+2019-01-24 10:47:58,312 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_291; Message:b'{"response": "400", "time": 1548301678.3126612, "error": "Wrong request or JSON"}'
+2019-01-24 10:48:01,315 INFO Lesson8_server User: Donald_291, Message:{"action": "msg", "time": 1548301681.020622, "to": "#mainroom", "from": "Donald_291", "message": "jhgjkytuyt"}
+2019-01-24 10:48:01,316 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_291; Message:b'{"response": "200", "time": 1548301681.316129, "alert": "OK!"}'
+2019-01-24 10:48:09,326 INFO Lesson8_server User: Jeremy_273, Message:{"action": "msg", "time": 1548301689.0122957, "to": "#mainroom", "from": "Jeremy_273", "message": "hgfhgfjhtt"}
+2019-01-24 10:48:09,326 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_273; Message:b'{"response": "200", "time": 1548301689.3266878, "alert": "OK!"}'
+2019-01-24 10:48:52,369 INFO Lesson8_server User: None, Message:{"action": "msg", "time": 1548301730.0845854, "to": "#mainroom", "from": "Jeremy_273", "message": ""}{"action": "msg", "time": 1548301730.0848105, "to": "#mainroom", "from": "Jeremy_273", "message": "zzzzzzasa"}
+2019-01-24 10:48:52,369 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_273; Message:b'{"response": "400", "time": 1548301732.3695457, "error": "Wrong request or JSON"}'
+2019-01-24 10:50:35,327 INFO Lesson8_server User: Donald_291, Message:{"action": "msg", "time": 1548301835.3271754, "to": "#mainroom", "from": "Donald_291", "message": "okaokoa"}
+2019-01-24 10:50:35,328 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_291; Message:b'{"response": "200", "time": 1548301835.32813, "alert": "OK!"}'
+2019-01-24 10:50:42,335 INFO Lesson8_server User: Donald_291, Message:{"action": "msg", "time": 1548301840.0669982, "to": "#mainroom", "from": "Donald_291", "message": "oka ako"}
+2019-01-24 10:50:42,336 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_291; Message:b'{"response": "200", "time": 1548301842.3362312, "alert": "OK!"}'
+2019-01-24 11:09:22,073 INFO Lesson8_server User: Jeremy_003, Message:{"action": "presence", "time": 1548302961.0704317, "type": "status", "user": {"account_name": "Jeremy_003", "status": "I am using JIM Messenger !"}}
+2019-01-24 11:09:22,073 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_003; Message:b'{"response": "200", "time": 1548302962.0734625, "alert": "OK!"}'
+2019-01-24 11:09:28,079 INFO Lesson8_server User: None, Message:{"action": "msg", "time": 1548302967.0426593, "to": "#mainroom", "from": "Jeremy_003", "message": ""}{"action": "msg", "time": 1548302967.0428813, "to": "#mainroom", "from": "Jeremy_003", "message": "asfsadf"}
+2019-01-24 11:09:28,079 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_003; Message:b'{"response": "400", "time": 1548302968.0795057, "error": "Wrong request or JSON"}'
+2019-01-24 11:09:30,081 INFO Lesson8_server User: Jeremy_003, Message:{"action": "msg", "time": 1548302969.2566879, "to": "#mainroom", "from": "Jeremy_003", "message": "safasd"}
+2019-01-24 11:09:30,081 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_003; Message:b'{"response": "200", "time": 1548302970.0817611, "alert": "OK!"}'
+2019-01-24 11:09:32,084 INFO Lesson8_server User: Jeremy_003, Message:{"action": "msg", "time": 1548302971.0112078, "to": "#mainroom", "from": "Jeremy_003", "message": "cxvzx"}
+2019-01-24 11:09:32,084 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_003; Message:b'{"response": "200", "time": 1548302972.0849183, "alert": "OK!"}'
+2019-01-24 11:09:34,087 INFO Lesson8_server User: None, Message:{"action": "msg", "time": 1548302972.2115066, "to": "#mainroom", "from": "Jeremy_003", "message": ""}{"action": "msg", "time": 1548302973.2025807, "to": "#mainroom", "from": "Jeremy_003", "message": "wqer"}
+2019-01-24 11:09:34,087 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_003; Message:b'{"response": "400", "time": 1548302974.0877042, "error": "Wrong request or JSON"}'
+2019-01-24 11:09:44,098 INFO Lesson8_server User: Jeremy_010, Message:{"action": "presence", "time": 1548302982.5373535, "type": "status", "user": {"account_name": "Jeremy_010", "status": "I am using JIM Messenger !"}}
+2019-01-24 11:09:44,098 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_010; Message:b'{"response": "200", "time": 1548302984.0983734, "alert": "OK!"}'
+2019-01-24 11:09:45,100 INFO Lesson8_server User: Jeremy_010, Message:{"action": "msg", "time": 1548302984.7426276, "to": "#mainroom", "from": "Jeremy_010", "message": ""}
+2019-01-24 11:09:45,100 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_010; Message:b'{"response": "200", "time": 1548302985.100272, "alert": "OK!"}'
+2019-01-24 11:09:48,103 INFO Lesson8_server User: Jeremy_010, Message:{"action": "msg", "time": 1548302986.7844918, "to": "#mainroom", "from": "Jeremy_010", "message": "vzcvzxc"}
+2019-01-24 11:09:48,103 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_010; Message:b'{"response": "200", "time": 1548302988.1038845, "alert": "OK!"}'
+2019-01-24 11:09:51,107 INFO Lesson8_server User: Jeremy_010, Message:{"action": "msg", "time": 1548302988.4322534, "to": "#mainroom", "from": "Jeremy_010", "message": "qw"}
+2019-01-24 11:09:51,107 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_010; Message:b'{"response": "200", "time": 1548302991.1074653, "alert": "OK!"}'
+2019-01-24 11:09:53,485 INFO Lesson8_server User: Jeremy_003, Message:{"action": "msg", "time": 1548302993.4846034, "to": "#mainroom", "from": "Jeremy_003", "message": ""}
+2019-01-24 11:09:53,485 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_003; Message:b'{"response": "200", "time": 1548302993.4853463, "alert": "OK!"}'
+2019-01-24 11:10:04,497 INFO Lesson8_server User: Jeremy_003, Message:{"action": "msg", "time": 1548303004.0993028, "to": "#mainroom", "from": "Jeremy_003", "message": "shatta fucccka"}
+2019-01-24 11:10:04,498 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_003; Message:b'{"response": "200", "time": 1548303004.4981008, "alert": "OK!"}'
+2019-01-24 11:10:12,507 INFO Lesson8_server User: None, Message:{"action": "msg", "time": 1548303012.3086572, "to": "#mainroom", "from": "Jeremy_010", "message": ""}{"action": "msg", "time": 1548303012.3088102, "to": "#mainroom", "from": "Jeremy_010", "message": "Hello"}
+2019-01-24 11:10:12,507 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_010; Message:b'{"response": "400", "time": 1548303012.5077257, "error": "Wrong request or JSON"}'
+2019-01-24 12:04:15,837 INFO Lesson8_server User: Donald_738, Message:{"action": "presence", "time": 1548306254.4228714, "type": "status", "user": {"account_name": "Donald_738", "status": "I am using JIM Messenger !"}}
+2019-01-24 12:04:15,838 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_738; Message:b'{"response": "200", "time": 1548306255.8379912, "alert": "OK!"}'
+2019-01-24 12:04:21,843 INFO Lesson8_server User: None, Message:{"action": "msg", "time": 1548306261.3896625, "to": "#mainroom", "from": "Donald_738", "message": ""}{"action": "msg", "time": 1548306261.3897986, "to": "#mainroom", "from": "Donald_738", "message": "HI"}
+2019-01-24 12:04:21,844 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_738; Message:b'{"response": "400", "time": 1548306261.844194, "error": "Wrong request or JSON"}'
+2019-01-24 12:04:29,850 INFO Lesson8_server User: None, Message:{"action": "msg", "time": 1548306267.8557749, "to": "#mainroom", "from": "Donald_738", "message": ""}{"action": "msg", "time": 1548306268.8222458, "to": "#mainroom", "from": "Donald_738", "message": "adfaf"}
+2019-01-24 12:04:29,851 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_738; Message:b'{"response": "400", "time": 1548306269.8508646, "error": "Wrong request or JSON"}'
+2019-01-24 12:04:34,311 INFO Lesson8_server User: Tomas_116, Message:{"action": "presence", "time": 1548306273.310133, "type": "status", "user": {"account_name": "Tomas_116", "status": "I am using JIM Messenger !"}}
+2019-01-24 12:04:34,311 INFO Lesson8_server Server send to: 127.0.0.1; User: Tomas_116; Message:b'{"response": "200", "time": 1548306274.311232, "alert": "OK!"}'
+2019-01-24 12:04:35,997 INFO Lesson8_server User: Tomas_116, Message:{"action": "msg", "time": 1548306275.9972804, "to": "#mainroom", "from": "Tomas_116", "message": "hkjhsdjaf"}
+2019-01-24 12:04:35,998 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_738; Message:b'{"response": "100", "time": 1548306275.9976702, "alert": "|#mainroom| Tomas_116: hkjhsdjaf"}'
+2019-01-24 12:04:35,998 INFO Lesson8_server Server send to: 127.0.0.1; User: Tomas_116; Message:b'{"response": "100", "time": 1548306275.997789, "alert": "|#mainroom| Tomas_116: hkjhsdjaf"}'
+2019-01-24 12:04:35,998 INFO Lesson8_server Server send to: 127.0.0.1; User: Tomas_116; Message:b'{"response": "200", "time": 1548306275.9982781, "alert": "OK!"}'
+2019-01-24 12:04:39,001 INFO Lesson8_server User: Tomas_116, Message:{"action": "msg", "time": 1548306278.9175198, "to": "#mainroom", "from": "Tomas_116", "message": "sdafdsf"}
+2019-01-24 12:04:39,001 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_738; Message:b'{"response": "100", "time": 1548306279.0014439, "alert": "|#mainroom| Tomas_116: sdafdsf"}'
+2019-01-24 12:04:39,002 INFO Lesson8_server Server send to: 127.0.0.1; User: Tomas_116; Message:b'{"response": "100", "time": 1548306279.001577, "alert": "|#mainroom| Tomas_116: sdafdsf"}'
+2019-01-24 12:04:39,002 INFO Lesson8_server Server send to: 127.0.0.1; User: Tomas_116; Message:b'{"response": "200", "time": 1548306279.0020719, "alert": "OK!"}'
+2019-01-24 12:04:45,008 INFO Lesson8_server User: None, Message:{"action": "msg", "time": 1548306284.8008287, "to": "#mainroom", "from": "Donald_738", "message": ""}{"action": "msg", "time": 1548306284.8010724, "to": "#mainroom", "from": "Donald_738", "message": "dsfahkjsda"}
+2019-01-24 12:04:45,008 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_738; Message:b'{"response": "400", "time": 1548306285.008387, "error": "Wrong request or JSON"}'
+2019-01-24 12:04:52,014 INFO Lesson8_server User: Donald_738, Message:{"action": "msg", "time": 1548306291.716458, "to": "#mainroom", "from": "Donald_738", "message": "Thanks !"}
+2019-01-24 12:04:52,015 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_738; Message:b'{"response": "100", "time": 1548306292.0147192, "alert": "|#mainroom| Donald_738: Thanks !"}'
+2019-01-24 12:04:52,015 INFO Lesson8_server Server send to: 127.0.0.1; User: Tomas_116; Message:b'{"response": "100", "time": 1548306292.0148695, "alert": "|#mainroom| Donald_738: Thanks !"}'
+2019-01-24 12:04:52,016 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_738; Message:b'{"response": "200", "time": 1548306292.0153642, "alert": "OK!"}'
+2019-01-24 12:05:04,025 INFO Lesson8_server User: None, Message:{"action": "msg", "time": 1548306302.7387364, "to": "#mainroom", "from": "Tomas_116", "message": ""}{"action": "msg", "time": 1548306302.7389693, "to": "#mainroom", "from": "Tomas_116", "message": "Mama mia"}
+2019-01-24 12:05:04,025 INFO Lesson8_server Server send to: 127.0.0.1; User: Tomas_116; Message:b'{"response": "400", "time": 1548306304.025267, "error": "Wrong request or JSON"}'
+2019-01-24 12:14:33,638 INFO Lesson8_server User: Mike_918, Message:{"action": "presence", "time": 1548306872.6360712, "type": "status", "user": {"account_name": "Mike_918", "status": "I am using JIM Messenger !"}}
+2019-01-24 12:14:33,638 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "200", "time": 1548306873.6383796, "alert": "OK!"}'
+2019-01-24 12:14:36,641 INFO Lesson8_server User: Mike_918, Message:{"action": "msg", "time": 1548306876.6403813, "to": "#mainroom", "from": "Mike_918", "message": "ah"}
+2019-01-24 12:14:36,642 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "100", "time": 1548306876.6417143, "alert": "|#mainroom| Mike_918: ah"}'
+2019-01-24 12:14:36,642 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "200", "time": 1548306876.642261, "alert": "OK!"}'
+2019-01-24 12:14:41,646 INFO Lesson8_server User: Mike_918, Message:{"action": "msg", "time": 1548306880.1842823, "to": "#mainroom", "from": "Mike_918", "message": "fsadfw"}
+2019-01-24 12:14:41,646 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "100", "time": 1548306881.646344, "alert": "|#mainroom| Mike_918: fsadfw"}'
+2019-01-24 12:14:41,647 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "200", "time": 1548306881.6469283, "alert": "OK!"}'
+2019-01-24 12:14:44,543 INFO Lesson8_server User: Mike_918, Message:{"action": "msg", "time": 1548306884.543091, "to": "#mainroom", "from": "Mike_918", "message": "n,mqwnejfh"}
+2019-01-24 12:14:44,543 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "100", "time": 1548306884.543348, "alert": "|#mainroom| Mike_918: n,mqwnejfh"}'
+2019-01-24 12:14:44,544 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "200", "time": 1548306884.5437632, "alert": "OK!"}'
+2019-01-24 12:14:51,551 INFO Lesson8_server User: Donald_748, Message:{"action": "presence", "time": 1548306888.5908003, "type": "status", "user": {"account_name": "Donald_748", "status": "I am using JIM Messenger !"}}
+2019-01-24 12:14:51,551 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "200", "time": 1548306891.5516472, "alert": "OK!"}'
+2019-01-24 12:14:52,660 INFO Lesson8_server User: Donald_748, Message:{"action": "msg", "time": 1548306892.6599581, "to": "#mainroom", "from": "Donald_748", "message": ""}
+2019-01-24 12:14:52,660 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "100", "time": 1548306892.6603854, "alert": "|#mainroom| Donald_748: "}'
+2019-01-24 12:14:52,661 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "100", "time": 1548306892.6605012, "alert": "|#mainroom| Donald_748: "}'
+2019-01-24 12:14:52,661 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "200", "time": 1548306892.660969, "alert": "OK!"}'
+2019-01-24 12:14:56,399 INFO Lesson8_server User: Donald_748, Message:{"action": "msg", "time": 1548306896.3991613, "to": "#mainroom", "from": "Donald_748", "message": "b,mnbcxv"}
+2019-01-24 12:14:56,400 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "100", "time": 1548306896.3995268, "alert": "|#mainroom| Donald_748: b,mnbcxv"}'
+2019-01-24 12:14:56,400 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "100", "time": 1548306896.399645, "alert": "|#mainroom| Donald_748: b,mnbcxv"}'
+2019-01-24 12:14:56,400 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "200", "time": 1548306896.400198, "alert": "OK!"}'
+2019-01-24 12:14:59,404 INFO Lesson8_server User: Donald_748, Message:{"action": "msg", "time": 1548306899.1836433, "to": "#mainroom", "from": "Donald_748", "message": "hklasdf"}
+2019-01-24 12:14:59,404 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "100", "time": 1548306899.4039102, "alert": "|#mainroom| Donald_748: hklasdf"}'
+2019-01-24 12:14:59,404 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "100", "time": 1548306899.404044, "alert": "|#mainroom| Donald_748: hklasdf"}'
+2019-01-24 12:14:59,404 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "200", "time": 1548306899.4044108, "alert": "OK!"}'
+2019-01-24 12:15:02,408 INFO Lesson8_server User: Donald_748, Message:{"action": "msg", "time": 1548306901.5892859, "to": "#mainroom", "from": "Donald_748", "message": "hjhv;zcx"}
+2019-01-24 12:15:02,408 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "100", "time": 1548306902.407971, "alert": "|#mainroom| Donald_748: hjhv;zcx"}'
+2019-01-24 12:15:02,409 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "100", "time": 1548306902.4081185, "alert": "|#mainroom| Donald_748: hjhv;zcx"}'
+2019-01-24 12:15:02,409 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "200", "time": 1548306902.4087493, "alert": "OK!"}'
+2019-01-24 12:15:09,281 INFO Lesson8_server User: Mike_918, Message:{"action": "msg", "time": 1548306909.2812796, "to": "#mainroom", "from": "Mike_918", "message": ""}
+2019-01-24 12:15:09,282 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "100", "time": 1548306909.2816744, "alert": "|#mainroom| Mike_918: "}'
+2019-01-24 12:15:09,282 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "100", "time": 1548306909.281799, "alert": "|#mainroom| Mike_918: "}'
+2019-01-24 12:15:09,283 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "200", "time": 1548306909.282318, "alert": "OK!"}'
+2019-01-24 12:15:12,286 INFO Lesson8_server User: Mike_918, Message:{"action": "msg", "time": 1548306909.2814355, "to": "#mainroom", "from": "Mike_918", "message": "ghjweqgrkew"}
+2019-01-24 12:15:12,286 INFO Lesson8_server User: Mike_918, Message:{"action": "msg", "time": 1548306910.9868655, "to": "#mainroom", "from": "Mike_918", "message": "cxvlkjh"}
+2019-01-24 12:15:12,287 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "100", "time": 1548306912.2860782, "alert": "|#mainroom| Mike_918: ghjweqgrkew"}'
+2019-01-24 12:15:12,287 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "100", "time": 1548306912.2862124, "alert": "|#mainroom| Mike_918: ghjweqgrkew"}'
+2019-01-24 12:15:12,288 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "200", "time": 1548306912.2865646, "alert": "OK!"}'
+2019-01-24 12:15:12,288 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "100", "time": 1548306912.2866657, "alert": "|#mainroom| Mike_918: cxvlkjh"}'
+2019-01-24 12:15:12,288 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "100", "time": 1548306912.2867167, "alert": "|#mainroom| Mike_918: cxvlkjh"}'
+2019-01-24 12:15:12,288 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "200", "time": 1548306912.2872324, "alert": "OK!"}'
+2019-01-24 12:15:36,310 INFO Lesson8_server User: Donald_748, Message:{"action": "msg", "time": 1548306934.8115816, "to": "#mainroom", "from": "Donald_748", "message": ""}
+2019-01-24 12:15:36,310 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "100", "time": 1548306936.3101778, "alert": "|#mainroom| Donald_748: "}'
+2019-01-24 12:15:36,311 INFO Lesson8_server User: Donald_748, Message:{"action": "msg", "time": 1548306934.8117964, "to": "#mainroom", "from": "Donald_748", "message": "\u0414\u0430\u0432\u0430\u0439 \u0437\u0430 \u043d\u0430\u0441"}
+2019-01-24 12:15:36,311 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "100", "time": 1548306936.310326, "alert": "|#mainroom| Donald_748: "}'
+2019-01-24 12:15:36,311 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "200", "time": 1548306936.3108244, "alert": "OK!"}'
+2019-01-24 12:15:36,312 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "100", "time": 1548306936.310962, "alert": "|#mainroom| Donald_748: \\u0414\\u0430\\u0432\\u0430\\u0439 \\u0437\\u0430 \\u043d\\u0430\\u0441"}'
+2019-01-24 12:15:36,312 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "100", "time": 1548306936.3109953, "alert": "|#mainroom| Donald_748: \\u0414\\u0430\\u0432\\u0430\\u0439 \\u0437\\u0430 \\u043d\\u0430\\u0441"}'
+2019-01-24 12:15:36,312 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "200", "time": 1548306936.3115563, "alert": "OK!"}'
+2019-01-24 12:15:54,327 INFO Lesson8_server User: Mike_918, Message:{"action": "msg", "time": 1548306953.9179657, "to": "#mainroom", "from": "Mike_918", "message": "\u0418 \u0437\u0430 \u0441\u043f\u0435\u0446\u043d\u0430\u0437 !"}
+2019-01-24 12:15:54,327 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "100", "time": 1548306954.32747, "alert": "|#mainroom| Mike_918: \\u0418 \\u0437\\u0430 \\u0441\\u043f\\u0435\\u0446\\u043d\\u0430\\u0437 !"}'
+2019-01-24 12:15:54,328 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "100", "time": 1548306954.3276067, "alert": "|#mainroom| Mike_918: \\u0418 \\u0437\\u0430 \\u0441\\u043f\\u0435\\u0446\\u043d\\u0430\\u0437 !"}'
+2019-01-24 12:15:54,328 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "200", "time": 1548306954.328064, "alert": "OK!"}'
+2019-01-24 12:17:54,448 INFO Lesson8_server User: Donald_748, Message:{"action": "msg", "time": 1548307072.4899652, "to": "#mainroom", "from": "Donald_748", "message": ""}
+2019-01-24 12:17:54,448 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "100", "time": 1548307074.4479806, "alert": "|#mainroom| Donald_748: "}'
+2019-01-24 12:17:54,448 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "100", "time": 1548307074.4481149, "alert": "|#mainroom| Donald_748: "}'
+2019-01-24 12:17:54,449 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "200", "time": 1548307074.4485729, "alert": "OK!"}'
+2019-01-24 12:18:09,461 INFO Lesson8_server User: Donald_748, Message:{"action": "msg", "time": 1548307088.0891545, "to": "#mainroom", "from": "Donald_748", "message": "\u0427\u0435 \u043c\u043e\u043b\u0447\u0438\u043c ?"}
+2019-01-24 12:18:09,461 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "100", "time": 1548307089.4612448, "alert": "|#mainroom| Donald_748: \\u0427\\u0435 \\u043c\\u043e\\u043b\\u0447\\u0438\\u043c ?"}'
+2019-01-24 12:18:09,462 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "100", "time": 1548307089.4613724, "alert": "|#mainroom| Donald_748: \\u0427\\u0435 \\u043c\\u043e\\u043b\\u0447\\u0438\\u043c ?"}'
+2019-01-24 12:18:09,462 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "200", "time": 1548307089.4618297, "alert": "OK!"}'
+2019-01-24 12:18:27,478 INFO Lesson8_server User: Mike_918, Message:{"action": "msg", "time": 1548307107.0244644, "to": "#mainroom", "from": "Mike_918", "message": ""}
+2019-01-24 12:18:27,478 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "100", "time": 1548307107.4784403, "alert": "|#mainroom| Mike_918: "}'
+2019-01-24 12:18:27,479 INFO Lesson8_server User: Mike_918, Message:{"action": "msg", "time": 1548307107.0246685, "to": "#mainroom", "from": "Mike_918", "message": "\u0413\u043e\u0432\u043e\u0440\u0438\u043c !"}
+2019-01-24 12:18:27,479 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "100", "time": 1548307107.4785395, "alert": "|#mainroom| Mike_918: "}'
+2019-01-24 12:18:27,480 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "200", "time": 1548307107.479061, "alert": "OK!"}'
+2019-01-24 12:18:27,480 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "100", "time": 1548307107.479127, "alert": "|#mainroom| Mike_918: \\u0413\\u043e\\u0432\\u043e\\u0440\\u0438\\u043c !"}'
+2019-01-24 12:18:27,480 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "100", "time": 1548307107.4791577, "alert": "|#mainroom| Mike_918: \\u0413\\u043e\\u0432\\u043e\\u0440\\u0438\\u043c !"}'
+2019-01-24 12:18:27,480 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "200", "time": 1548307107.479727, "alert": "OK!"}'
+2019-01-24 12:18:51,501 INFO Lesson8_server User: None, Message:
+2019-01-24 12:18:51,501 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "400", "time": 1548307131.501284, "error": "Wrong request or JSON"}'
+2019-01-24 12:18:53,503 INFO Lesson8_server User: None, Message:
+2019-01-24 12:18:53,504 INFO Lesson8_server User: None, Message:
+2019-01-24 12:18:53,504 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_918; Message:b'{"response": "400", "time": 1548307133.5040622, "error": "Wrong request or JSON"}'
+2019-01-24 12:18:53,505 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_748; Message:b'{"response": "400", "time": 1548307133.5047357, "error": "Wrong request or JSON"}'
+2019-01-24 12:18:53,505 ERROR Lesson8_server Error: [Errno 32] Broken pipe
+2019-01-24 12:24:46,598 INFO Lesson8_server User: Jeremy_270, Message:{"action": "presence", "time": 1548307485.596925, "type": "status", "user": {"account_name": "Jeremy_270", "status": "I am using JIM Messenger !"}}
+2019-01-24 12:24:46,600 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_270; Message:b'{"response": "200", "time": 1548307486.6007032, "alert": "OK!"}'
+2019-01-24 12:25:03,617 INFO Lesson8_server User: Mike_261, Message:{"action": "presence", "time": 1548307501.5489185, "type": "status", "user": {"account_name": "Mike_261", "status": "I am using JIM Messenger !"}}
+2019-01-24 12:25:03,618 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_261; Message:b'{"response": "200", "time": 1548307503.6181548, "alert": "OK!"}'
+2019-01-24 12:25:28,640 ERROR Lesson8_server Error [Errno 104] Connection reset by peer
+2019-01-24 12:25:30,642 ERROR Lesson8_server Error [Errno 104] Connection reset by peer
+2019-01-24 12:25:32,645 INFO Lesson8_server User: None, Message:
+2019-01-24 12:25:32,645 INFO Lesson8_server User: None, Message:
+2019-01-24 12:25:32,646 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_270; Message:b'{"response": "400", "time": 1548307532.6455688, "error": "Wrong request or JSON"}'
+2019-01-24 12:25:32,646 ERROR Lesson8_server Error: [Errno 32] Broken pipe
+2019-01-24 12:25:32,646 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_261; Message:b'{"response": "400", "time": 1548307532.6461241, "error": "Wrong request or JSON"}'
+2019-01-24 12:25:32,646 ERROR Lesson8_server Error: [Errno 32] Broken pipe
+2019-01-24 12:26:21,947 INFO Lesson8_server User: Donald_454, Message:{"action": "presence", "time": 1548307580.9466062, "type": "status", "user": {"account_name": "Donald_454", "status": "I am using JIM Messenger !"}}
+2019-01-24 12:26:21,947 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_454; Message:b'{"response": "200", "time": 1548307581.947518, "alert": "OK!"}'
+2019-01-24 12:26:25,574 INFO Lesson8_server User: Donald_454, Message:{"action": "msg", "time": 1548307585.5743277, "to": "#mainroom", "from": "Donald_454", "message": "sdfgkj"}
+2019-01-24 12:26:25,575 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_454; Message:b'{"response": "100", "time": 1548307585.5746205, "alert": "|#mainroom| Donald_454: sdfgkj"}'
+2019-01-24 12:26:25,575 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_454; Message:b'{"response": "200", "time": 1548307585.5751777, "alert": "OK!"}'
+2019-01-24 12:26:27,577 INFO Lesson8_server User: Donald_454, Message:{"action": "msg", "time": 1548307587.5683036, "to": "#mainroom", "from": "Donald_454", "message": "uoquef"}
+2019-01-24 12:26:27,578 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_454; Message:b'{"response": "100", "time": 1548307587.5777895, "alert": "|#mainroom| Donald_454: uoquef"}'
+2019-01-24 12:26:27,578 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_454; Message:b'{"response": "200", "time": 1548307587.5783532, "alert": "OK!"}'
+2019-01-24 12:26:29,580 INFO Lesson8_server User: Donald_454, Message:{"action": "msg", "time": 1548307589.4001272, "to": "#mainroom", "from": "Donald_454", "message": "bmnabsdlfkjhk"}
+2019-01-24 12:26:29,581 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_454; Message:b'{"response": "100", "time": 1548307589.580822, "alert": "|#mainroom| Donald_454: bmnabsdlfkjhk"}'
+2019-01-24 12:26:29,581 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_454; Message:b'{"response": "200", "time": 1548307589.581425, "alert": "OK!"}'
+2019-01-24 12:26:33,605 INFO Lesson8_server User: Tomas_030, Message:{"action": "presence", "time": 1548307592.604301, "type": "status", "user": {"account_name": "Tomas_030", "status": "I am using JIM Messenger !"}}
+2019-01-24 12:26:33,606 INFO Lesson8_server Server send to: 127.0.0.1; User: Tomas_030; Message:b'{"response": "200", "time": 1548307593.6062355, "alert": "OK!"}'
+2019-01-24 12:26:38,611 INFO Lesson8_server User: Tomas_030, Message:{"action": "msg", "time": 1548307596.2568657, "to": "#mainroom", "from": "Tomas_030", "message": "fsadf"}
+2019-01-24 12:26:38,612 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_454; Message:b'{"response": "100", "time": 1548307598.611774, "alert": "|#mainroom| Tomas_030: fsadf"}'
+2019-01-24 12:26:38,612 INFO Lesson8_server Server send to: 127.0.0.1; User: Tomas_030; Message:b'{"response": "100", "time": 1548307598.6119013, "alert": "|#mainroom| Tomas_030: fsadf"}'
+2019-01-24 12:26:38,612 INFO Lesson8_server Server send to: 127.0.0.1; User: Tomas_030; Message:b'{"response": "200", "time": 1548307598.6125836, "alert": "OK!"}'
+2019-01-24 12:26:41,615 INFO Lesson8_server User: Tomas_030, Message:{"action": "msg", "time": 1548307599.8835115, "to": "#mainroom", "from": "Tomas_030", "message": "vc"}
+2019-01-24 12:26:41,616 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_454; Message:b'{"response": "100", "time": 1548307601.6153665, "alert": "|#mainroom| Tomas_030: vc"}'
+2019-01-24 12:26:41,616 INFO Lesson8_server Server send to: 127.0.0.1; User: Tomas_030; Message:b'{"response": "100", "time": 1548307601.6155014, "alert": "|#mainroom| Tomas_030: vc"}'
+2019-01-24 12:26:41,616 INFO Lesson8_server Server send to: 127.0.0.1; User: Tomas_030; Message:b'{"response": "200", "time": 1548307601.6158843, "alert": "OK!"}'
+2019-01-24 12:26:56,630 INFO Lesson8_server User: Tomas_030, Message:{"action": "msg", "time": 1548307616.5291388, "to": "#mainroom", "from": "Tomas_030", "message": "Where is wc here &"}
+2019-01-24 12:26:56,630 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_454; Message:b'{"response": "100", "time": 1548307616.6301446, "alert": "|#mainroom| Tomas_030: Where is wc here &"}'
+2019-01-24 12:26:56,631 INFO Lesson8_server Server send to: 127.0.0.1; User: Tomas_030; Message:b'{"response": "100", "time": 1548307616.6302745, "alert": "|#mainroom| Tomas_030: Where is wc here &"}'
+2019-01-24 12:26:56,631 INFO Lesson8_server Server send to: 127.0.0.1; User: Tomas_030; Message:b'{"response": "200", "time": 1548307616.630836, "alert": "OK!"}'
+2019-01-24 12:27:27,585 INFO Lesson8_server User: None, Message:
+2019-01-24 12:27:27,586 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_454; Message:b'{"response": "400", "time": 1548307647.5861845, "error": "Wrong request or JSON"}'
+2019-01-24 12:27:30,589 INFO Lesson8_server User: None, Message:
+2019-01-24 12:27:30,589 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_454; Message:b'{"response": "400", "time": 1548307650.5895286, "error": "Wrong request or JSON"}'
+2019-01-24 12:27:30,590 ERROR Lesson8_server Error: [Errno 32] Broken pipe
+2019-01-24 12:27:44,114 INFO Lesson8_server User: Mike_323, Message:{"action": "presence", "time": 1548307663.1125565, "type": "status", "user": {"account_name": "Mike_323", "status": "I am using JIM Messenger !"}}
+2019-01-24 12:27:44,114 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_323; Message:b'{"response": "200", "time": 1548307664.1145742, "alert": "OK!"}'
+2019-01-24 12:27:49,119 INFO Lesson8_server User: None, Message:
+2019-01-24 12:27:49,119 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_323; Message:b'{"response": "400", "time": 1548307669.1193523, "error": "Wrong request or JSON"}'
+2019-01-24 12:27:52,122 INFO Lesson8_server User: None, Message:
+2019-01-24 12:27:52,123 INFO Lesson8_server Server send to: 127.0.0.1; User: Mike_323; Message:b'{"response": "400", "time": 1548307672.1229322, "error": "Wrong request or JSON"}'
+2019-01-24 12:27:52,123 ERROR Lesson8_server Error: [Errno 32] Broken pipe
+2019-01-24 12:27:59,130 INFO Lesson8_server User: Donald_776, Message:{"action": "presence", "time": 1548307677.5026455, "type": "status", "user": {"account_name": "Donald_776", "status": "I am using JIM Messenger !"}}
+2019-01-24 12:27:59,130 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_776; Message:b'{"response": "200", "time": 1548307679.1304123, "alert": "OK!"}'
+2019-01-24 12:28:18,148 INFO Lesson8_server User: Jeremy_125, Message:{"action": "presence", "time": 1548307696.7266529, "type": "status", "user": {"account_name": "Jeremy_125", "status": "I am using JIM Messenger !"}}
+2019-01-24 12:28:18,148 INFO Lesson8_server User: None, Message:
+2019-01-24 12:28:18,148 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_125; Message:b'{"response": "200", "time": 1548307698.148189, "alert": "OK!"}'
+2019-01-24 12:28:18,148 INFO Lesson8_server Server send to: 127.0.0.1; User: Tomas_030; Message:b'{"response": "400", "time": 1548307698.1484993, "error": "Wrong request or JSON"}'
+2019-01-24 12:28:22,152 INFO Lesson8_server User: None, Message:
+2019-01-24 12:28:22,153 INFO Lesson8_server Server send to: 127.0.0.1; User: Tomas_030; Message:b'{"response": "400", "time": 1548307702.1528475, "error": "Wrong request or JSON"}'
+2019-01-24 12:28:22,153 ERROR Lesson8_server Error: [Errno 32] Broken pipe
+2019-01-24 12:28:22,439 INFO Lesson8_server User: Donald_776, Message:{"action": "msg", "time": 1548307702.437278, "to": "#mainroom", "from": "Donald_776", "message": "You are here !"}
+2019-01-24 12:28:22,439 INFO Lesson8_server Server send to: 127.0.0.1; User: Tomas_030; Message:b'{"response": "100", "time": 1548307702.4375913, "alert": "|#mainroom| Donald_776: You are here !"}'
+2019-01-24 12:28:22,439 ERROR Lesson8_server Error: [Errno 9] Bad file descriptor
+2019-01-24 12:28:22,440 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_776; Message:b'{"response": "100", "time": 1548307702.4377432, "alert": "|#mainroom| Donald_776: You are here !"}'
+2019-01-24 12:28:22,440 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_125; Message:b'{"response": "100", "time": 1548307702.4393106, "alert": "|#mainroom| Donald_776: You are here !"}'
+2019-01-24 12:28:22,440 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_776; Message:b'{"response": "200", "time": 1548307702.4396966, "alert": "OK!"}'
+2019-01-24 12:28:33,450 INFO Lesson8_server User: Jeremy_125, Message:{"action": "msg", "time": 1548307712.0841088, "to": "#mainroom", "from": "Jeremy_125", "message": ""}
+2019-01-24 12:28:33,450 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_776; Message:b'{"response": "100", "time": 1548307713.4501548, "alert": "|#mainroom| Jeremy_125: "}'
+2019-01-24 12:28:33,450 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_125; Message:b'{"response": "100", "time": 1548307713.4502587, "alert": "|#mainroom| Jeremy_125: "}'
+2019-01-24 12:28:33,450 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_125; Message:b'{"response": "200", "time": 1548307713.4505515, "alert": "OK!"}'
+2019-01-24 12:28:45,440 INFO Lesson8_server User: Jeremy_125, Message:{"action": "msg", "time": 1548307725.4397607, "to": "#mainroom", "from": "Jeremy_125", "message": "that is for shure !"}
+2019-01-24 12:28:45,440 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_776; Message:b'{"response": "100", "time": 1548307725.4400656, "alert": "|#mainroom| Jeremy_125: that is for shure !"}'
+2019-01-24 12:28:45,441 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_125; Message:b'{"response": "100", "time": 1548307725.4402127, "alert": "|#mainroom| Jeremy_125: that is for shure !"}'
+2019-01-24 12:28:45,441 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_125; Message:b'{"response": "200", "time": 1548307725.440754, "alert": "OK!"}'
+2019-01-24 12:29:04,459 INFO Lesson8_server User: Jeremy_125, Message:{"action": "msg", "time": 1548307742.2753882, "to": "#mainroom", "from": "Jeremy_125", "message": ""}
+2019-01-24 12:29:04,459 INFO Lesson8_server User: Jeremy_125, Message:{"action": "msg", "time": 1548307742.2756135, "to": "#mainroom", "from": "Jeremy_125", "message": "\u0430\u0431\u0440 \u0430\u0431\u0440"}
+2019-01-24 12:29:04,460 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_776; Message:b'{"response": "100", "time": 1548307744.4592273, "alert": "|#mainroom| Jeremy_125: "}'
+2019-01-24 12:29:04,460 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_125; Message:b'{"response": "100", "time": 1548307744.4593642, "alert": "|#mainroom| Jeremy_125: "}'
+2019-01-24 12:29:04,460 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_125; Message:b'{"response": "200", "time": 1548307744.459733, "alert": "OK!"}'
+2019-01-24 12:29:04,461 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_776; Message:b'{"response": "100", "time": 1548307744.4598465, "alert": "|#mainroom| Jeremy_125: \\u0430\\u0431\\u0440 \\u0430\\u0431\\u0440"}'
+2019-01-24 12:29:04,461 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_125; Message:b'{"response": "100", "time": 1548307744.4599013, "alert": "|#mainroom| Jeremy_125: \\u0430\\u0431\\u0440 \\u0430\\u0431\\u0440"}'
+2019-01-24 12:29:04,461 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_125; Message:b'{"response": "200", "time": 1548307744.4601054, "alert": "OK!"}'
+2019-01-24 12:29:11,466 INFO Lesson8_server User: Jeremy_125, Message:{"action": "msg", "time": 1548307749.1605992, "to": "#mainroom", "from": "Jeremy_125", "message": "\u0430\u0431\u0440\u0432\u0430\u043b\u0433"}
+2019-01-24 12:29:11,466 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_776; Message:b'{"response": "100", "time": 1548307751.4663365, "alert": "|#mainroom| Jeremy_125: \\u0430\\u0431\\u0440\\u0432\\u0430\\u043b\\u0433"}'
+2019-01-24 12:29:11,467 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_125; Message:b'{"response": "100", "time": 1548307751.4664268, "alert": "|#mainroom| Jeremy_125: \\u0430\\u0431\\u0440\\u0432\\u0430\\u043b\\u0433"}'
+2019-01-24 12:29:11,467 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_125; Message:b'{"response": "200", "time": 1548307751.4666722, "alert": "OK!"}'
+2019-01-24 12:29:34,486 INFO Lesson8_server User: Jeremy_125, Message:{"action": "msg", "time": 1548307772.6474645, "to": "#mainroom", "from": "Jeremy_125", "message": ""}
+2019-01-24 12:29:34,486 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_776; Message:b'{"response": "100", "time": 1548307774.4860616, "alert": "|#mainroom| Jeremy_125: "}'
+2019-01-24 12:29:34,486 INFO Lesson8_server User: Jeremy_125, Message:{"action": "msg", "time": 1548307772.6476648, "to": "#mainroom", "from": "Jeremy_125", "message": "\u0430\u0431\u044b\u0440\u0432\u0430\u043b\u0433 "}
+2019-01-24 12:29:34,487 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_125; Message:b'{"response": "100", "time": 1548307774.486195, "alert": "|#mainroom| Jeremy_125: "}'
+2019-01-24 12:29:34,487 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_125; Message:b'{"response": "200", "time": 1548307774.4866722, "alert": "OK!"}'
+2019-01-24 12:29:34,487 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_776; Message:b'{"response": "100", "time": 1548307774.4867728, "alert": "|#mainroom| Jeremy_125: \\u0430\\u0431\\u044b\\u0440\\u0432\\u0430\\u043b\\u0433 "}'
+2019-01-24 12:29:34,487 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_125; Message:b'{"response": "100", "time": 1548307774.4868264, "alert": "|#mainroom| Jeremy_125: \\u0430\\u0431\\u044b\\u0440\\u0432\\u0430\\u043b\\u0433 "}'
+2019-01-24 12:29:34,488 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_125; Message:b'{"response": "200", "time": 1548307774.487433, "alert": "OK!"}'
+2019-01-24 12:29:48,501 INFO Lesson8_server User: Donald_776, Message:{"action": "msg", "time": 1548307786.428193, "to": "#mainroom", "from": "Donald_776", "message": "say me"}
+2019-01-24 12:29:48,501 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_776; Message:b'{"response": "100", "time": 1548307788.5011322, "alert": "|#mainroom| Donald_776: say me"}'
+2019-01-24 12:29:48,502 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_125; Message:b'{"response": "100", "time": 1548307788.5012624, "alert": "|#mainroom| Donald_776: say me"}'
+2019-01-24 12:29:48,502 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_776; Message:b'{"response": "200", "time": 1548307788.5017588, "alert": "OK!"}'
+2019-01-24 12:30:03,516 INFO Lesson8_server User: None, Message:
+2019-01-24 12:30:03,516 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_776; Message:b'{"response": "400", "time": 1548307803.5163856, "error": "Wrong request or JSON"}'
+2019-01-24 12:30:06,519 INFO Lesson8_server User: None, Message:
+2019-01-24 12:30:06,519 INFO Lesson8_server Server send to: 127.0.0.1; User: Donald_776; Message:b'{"response": "400", "time": 1548307806.5194623, "error": "Wrong request or JSON"}'
+2019-01-24 12:30:06,519 INFO Lesson8_server User: None, Message:
+2019-01-24 12:30:06,520 ERROR Lesson8_server Error: [Errno 32] Broken pipe
+2019-01-24 12:30:06,520 INFO Lesson8_server Server send to: 127.0.0.1; User: Jeremy_125; Message:b'{"response": "400", "time": 1548307806.520232, "error": "Wrong request or JSON"}'
